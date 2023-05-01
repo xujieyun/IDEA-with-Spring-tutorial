@@ -2,3 +2,9 @@
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 这个是vmware16的程序 阿里云盘里面 还有centos7.8的不支持分享
 ZF3R0-FHED2-M80TY-8QYGC-NPKYF这个是激活密钥
+
+ubuntu
+http://mirrors.aliyun.com/ubuntu-releases/20.04/
+此处为ubuntu20.04的镜像版本，可以根据需求安装不同版本的ubuntu（再新建一个虚拟机安装就行了，与之前的虚拟机互不干扰）。
+下载
+ubuntu-20.04.6-desktop-amd64.iso
